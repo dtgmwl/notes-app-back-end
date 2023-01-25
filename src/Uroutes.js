@@ -4,7 +4,7 @@ const {
   getNoteByIdHandler,
   editNoteByIdHandler,
   deleteNoteByIdHandler,
-} = require('./handler');
+} = require('./Uhandler');
 
 const routes = [
   {
